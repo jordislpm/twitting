@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import { Inter } from 'next/font/google'
-import styles from "./api/index.module.css"
+import styles from '@/styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -14,11 +14,9 @@ export default function Home() {
         <link rel="icon" href="/twitter-icon.svg" />
       </Head> 
 
-   <main>
-   <h2 className={styles.title}>Twitter</h2>
-   </main>
+   
 
-        
+        <h2>Twitter</h2>
       
     </>
   )
