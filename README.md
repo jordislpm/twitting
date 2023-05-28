@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
+this is a clone of Twitter developend with Next.js 
 
 ```bash
 npm run dev
